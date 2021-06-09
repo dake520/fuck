@@ -9,6 +9,7 @@ public class FuckApplication {
     public static void main(String[] args) {
         SpringApplication.run(FuckApplication.class, args);
         sout;
+        sout;
     }
 
 }
