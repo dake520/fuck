@@ -8,6 +8,7 @@ class FuckApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("fuck");
     }
 
 }
